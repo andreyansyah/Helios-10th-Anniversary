@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">helios-10th-anniversary</string>
+    <string name="title_activity_main">helios-10th-anniversary</string>
+    <string name="package_name">helios.10th.anniversary</string>
+    <string name="custom_url_scheme">helios.10th.anniversary</string>
+</resources>
