@@ -1,0 +1,7 @@
+{
+  "name": "helios-10th-anniversary",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
